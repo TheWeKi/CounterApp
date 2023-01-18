@@ -1,0 +1,22 @@
+
+.counterButton {
+
+    margin: 16px;
+    padding: 16px 40px;
+    border-radius: 16px;
+    border: #61dafb solid;
+    background-color: #282c34;
+    color: white;
+    font-size: larger;
+
+}
+
+.counterButton:hover {
+    cursor: pointer;
+}
+
+.count {
+
+    font-size: 130px;
+
+}
